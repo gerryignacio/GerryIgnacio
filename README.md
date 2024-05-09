@@ -11,7 +11,7 @@ I am Gerry Ignacio, a passionate individual with a flair for coding and expertis
   - 2022-Present
 
 ## Certification
-
+- **[NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d4914c99a1254197bef1fb4e9e2e475c)**
 - **[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=7F028500A6396FA39901A7F19BABC01B3BD07490F76149F28AFC45F04B7CE3BF&fbclid=IwAR0L-z6l3lW2VRSZngqAhsXN7kxHRlw8rKfzCNd_p0zxHX0RRSMXhsSwY1o)**
 - **[Oracle Cloud Data Management 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=B9271E37B9F9F8565134DF71214A0BAA7E055BA77712BEA316D16C88367A256D&fbclid=IwAR3cQL3wXLNJN-3LVxHRefDSZs3-V1lGljLyBS26ZZkAR9IfHV-FKR9GSgU)**
 - **[Oracle Cloud Infrastructure 2023 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=EDCA6583F9317BA84EA97101B339B1A41359E0374E05D209AD116B8343FA096F)**
